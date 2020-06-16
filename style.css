@@ -20,3 +20,23 @@ img{
 p{
     text-align: center;
 }
+.timeline {
+  text-align: left;
+  display: block;
+  width: 400px;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*ul {
+  margin: 0px auto 50px auto;
+  display: block;
+}
+*/
+
+li {
+  margin: 16px 0px;
+  padding-left: auto;
+  padding-right: auto;
+}
