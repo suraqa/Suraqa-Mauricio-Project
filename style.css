@@ -1,0 +1,22 @@
+body {
+    background-color: #eee;
+}
+#header{
+    text-align: center;
+    padding-top: 70px;
+}
+#main-portion{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 1540px;
+    height: 700px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+}
